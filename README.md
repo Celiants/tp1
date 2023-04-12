@@ -5,7 +5,7 @@
 # Compte-rendu TP1 Introduction GIT
 
 
-### 1. Configuration de GIT
+### 1) Configuration de GIT
 Dans ce TP, nous allons dans un premier temps configurer GIT, à l'aide de la commande **git config**. En ajoutant des paramètres de configuration, comme notre nom d'utilisateur et notre addresse mail, qui sont très important.
 
 A partir ce ce moment la, plusieurs commande avec **git config** se suivent :
