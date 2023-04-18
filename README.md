@@ -46,14 +46,14 @@ Maintenant, le fichier README.md est synchronisé avec le dépôt. Nous venons d
 Nous allons développer notre projet de Cryptomonnaie en java pour bien comprendre la gestion des fichiers.  
 
 Nouvelle commande
-: créer un fichier vide avec la commande **touch**
+* créer un fichier vide avec la commande **touch**
 
 Nous avons donc complété les programmes .java qui étaient à notre disposition, que nous avons mit dans un sous répertoire *src*.  
 
 Nous avons du donc ajoutez et validez le fichier java au dépôt git, avec les mêmes commandes **git add Cryptommonaie**, **git commit -m "Première version du fichier Cyptomonnaie.java"**.
 
 Nous créons aussi un fichier **.gitignore** pour placer nos .class, avec les commandes
-: touch .gitignore
+* **touch .gitignore**
 
 Puis ajouter et valider avec **add** et **commit -m**.
 
