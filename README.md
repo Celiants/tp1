@@ -53,7 +53,7 @@ Nous avons donc complété les programmes .java qui étaient à notre dispositio
 Nous avons du donc ajoutez et validez le fichier java au dépôt git, avec les mêmes commandes **git add Cryptommonaie**, **git commit -m "Première version du fichier Cyptomonnaie.java"**.
 
 Nous créons aussi un fichier **.gitignore** pour placer nos .class, avec les commandes
-: **touch .gitignore**
+: touch .gitignore
 
 Puis ajouter et valider avec **add** et **commit -m**.
 
