@@ -48,6 +48,7 @@ Nous allons développer notre projet de Cryptomonnaie en java pour bien comprend
 
 Nouvelle commande
 * créer un fichier vide avec la commande **touch**
+* la commande **touch** ne marche pas sur mon ordinateur parce que je suis sur Windows 11, nous remplaçons donc **touch** par **type nul >>**
 
 Nous avons donc complété les programmes .java qui étaient à notre disposition, que nous avons mit dans un sous répertoire *src*.  
 
@@ -55,6 +56,7 @@ Nous avons du donc ajoutez et validez le fichier java au dépôt git, avec les m
 
 Nous créons aussi un fichier **.gitignore** pour placer nos .class, avec les commandes
 * **touch .gitignore**
+* **type nul >> ".gitignore"**
 
 Puis ajouter et valider avec **add** et **commit -m**.
 
